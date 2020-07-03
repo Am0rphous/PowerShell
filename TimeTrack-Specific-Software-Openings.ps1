@@ -1,5 +1,8 @@
+<#Primitive script used to test how long time various programs needs to open.
+VLC and Windows Media Player is used for simplicity.
+Modern servers will have a close average time, while old and unstable servers will vary more.#>
 
-#Skal du teste VLC eller Windows Media Player?
+#Testing VLC or Windows Media Player?
 [string] $ProgramNavn = "vlc"
 #[string] $ProgramNavn = "wmplayer"
 
