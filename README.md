@@ -2,7 +2,7 @@
 
 Various PowerShell scripts
 
-TimeTrack-Specific-Software-Openings.ps1: Primitive script used to test how long time various programs needs to open. VLC and Windows Media Player is used for simplicity. Modern servers will have a close average time while old and unstable servers will have timing that varys more.
+TimeTrack-Specific-Software-Openings.ps1: Primitive script used to test how long time a specific program need to be opened. VLC and Windows Media Player is used as examples. Modern servers will have a close average time while old and unstable servers will have timing that varys more.
 
 Normal timing on modern hardware:
 
