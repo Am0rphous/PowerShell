@@ -27,7 +27,7 @@ Function LoadMenu {
        $t             = "`t`t"   #Each 't' makes a tab space from the left
        $nt            = "`n`t`t" #Makes a new line and two tabulator spaces
     [int] $LastOption = 6       #Total number of options in the menu
-    [string] $MenuBar = "`n=========== Wifi HotSpot with PowerShell ==========="
+    [string] $MenuBar = "`n=========== PowerShell Menu for SysAdmins==========="
 
     #Foreach option in the menu, the script checks if the user has chosen
     #a value less than 1 or an option greater than the last menu option.
@@ -63,8 +63,7 @@ Function LoadMenu {
         Try {
             Write-Host "Running your code now .."
             Prompt_reload_menu
-         }
-        } Catch { CatchErrorMessage }
+         } Catch { CatchErrorMessage }
 
     } #Option 1 - whatever
 
@@ -72,8 +71,7 @@ Function LoadMenu {
 
         Try {
             Write-Host "Running your code now .."
-        }
-        Catch { CatchErrorMessage }
+        } Catch { CatchErrorMessage }
 
         Prompt_reload_menu
 
