@@ -1,6 +1,10 @@
 <#
-Info about your menu script
- #>
+Multiple lines of info about your menu script.
+Author: 
+Date: 
+
+To do:
+#>
 
     function CatchErrorMessage {
         # `n gives a new line
@@ -27,7 +31,7 @@ Function LoadMenu {
        $t             = "`t`t"   #Each 't' makes a tab space from the left
        $nt            = "`n`t`t" #Makes a new line and two tabulator spaces
     [int] $LastOption = 6       #Total number of options in the menu
-    [string] $MenuBar = "`n=========== PowerShell Menu for SysAdmins==========="
+    [string] $MenuBar = "`n=========== PowerShell Menu for SysAdmins ==========="
 
     #Foreach option in the menu, the script checks if the user has chosen
     #a value less than 1 or an option greater than the last menu option.
@@ -50,7 +54,7 @@ Function LoadMenu {
     [Int] $menuOption = Read-Host "`n`tOption"
         if ( $menuOption -lt 1 -or $menuOption -gt $LastOption ) {
 			Write-Host "$nt`Please choose a number in the menu" -Fore Red
-            Sleep -Seconds 2 #Script pauses for two seconds, so the user has time to read the error message
+            Start-sleep 2 #Script pauses for two seconds, so the user has time to read the error message
 		}
 
         Write-Host "" #Shows the feedback to the user one line further down
@@ -61,7 +65,7 @@ Function LoadMenu {
     1 { #Option 1 - whatever
 
         Try {
-            Write-Host "Running your code now .."
+            Write-Host `t"Running your code now .." `n
             Prompt_reload_menu
          } Catch { CatchErrorMessage }
 
@@ -70,7 +74,7 @@ Function LoadMenu {
     2 { #Option 2 - whatever
 
         Try {
-            Write-Host "Running your code now .."
+            Write-Host `t"Running your code now .." `n
         } Catch { CatchErrorMessage }
 
         Prompt_reload_menu
@@ -80,7 +84,7 @@ Function LoadMenu {
     3 { #Option 3 - whatever
 
         Try {
-            Write-Host "Running your code now .."
+            Write-Host `t"Running your code now .." `n
         }
         Catch { CatchErrorMessage }
 
@@ -91,7 +95,7 @@ Function LoadMenu {
     4 { #Option 4 - whatever
 
         Try {
-            Write-Host "Running your code now .."
+            Write-Host `t"Running your code now .." `n
         }
         Catch { CatchErrorMessage }
 
@@ -102,7 +106,7 @@ Function LoadMenu {
     5 { #Option 5 - whatever
 
         Try {
-            Write-Host "Running your code now .."
+            Write-Host `t"Running your code now .." `n
         }
         Catch { CatchErrorMessage }
 
