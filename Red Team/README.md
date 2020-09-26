@@ -14,12 +14,12 @@ DLL and Injection
 
 
 Other
-Writeable paths<br>
-C:\Windows\Tasks
-C:\Windows\Temp
-C:\windows\tracing
-C:\Windows\Registration\CRMLog
-C:\Windows\System32\FxsTmp
+Writeable paths<br >
+C:\Windows\Tasks  
+C:\Windows\Temp  
+C:\windows\tracing  
+C:\Windows\Registration\CRMLog  
+C:\Windows\System32\FxsTmp  
 C:\Windows\System32\com\dmp
 C:\Windows\System32\Microsoft\Crypto\RSA\MachineKeys
 C:\Windows\System32\spool\PRINTERS
