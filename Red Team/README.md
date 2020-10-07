@@ -1,17 +1,21 @@
 ## Resources
 
+
 - [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Empire](https://github.com/BC-SECURITY/Empire) - Empire is a PowerShell and Python 3.x post-exploitation framework.
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security 
+- [PowerSploit](https://github.com/byt3bl33d3r/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework 
 - [RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script 
-
-## Obfuscation (making scripts difficult to understand)
-- [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation)
 
 ## DLL and Injection
 - [Syringe](https://github.com/rsmusllp/syringe) - A General Purpose DLL & Code Injection Utility
 - [Reflective DLL Injection](https://github.com/rsmusllp/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 - [Unicorn](https://github.com/trustedsec/unicorn) - Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
+
+
+## Obfuscation (making scripts difficult to understand)
+- [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation)
+
 
 
 #### Writeable paths<br >
