@@ -1,5 +1,6 @@
 ## Resources
 
+- [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Empire](https://github.com/BC-SECURITY/Empire) - Empire is a PowerShell and Python 3.x post-exploitation framework.
 - [mimikatz](https://github.com/gentilkiwi/mimikatz)
 - [Red Team PowerShell Script](https://github.com/securethelogs/RedRabbit)
