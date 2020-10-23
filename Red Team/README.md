@@ -16,6 +16,8 @@
 - [Reflective DLL Injection](https://github.com/rsmusllp/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 - [Unicorn](https://github.com/trustedsec/unicorn) - Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
 
+## Encryption
+https://codeforcontent.com/blog/using-aes-in-powershell/
 
 ## Obfuscation (making scripts difficult to understand)
 - [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation)
