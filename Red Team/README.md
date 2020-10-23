@@ -19,6 +19,9 @@
 ## Encryption
 https://codeforcontent.com/blog/using-aes-in-powershell/
 
+## Framewoks
+- [Nishang](https://github.com/samratashok/nishang) - Offensive PowerShell for red team, penetration testing and offensive security. 
+
 ## Obfuscation (making scripts difficult to understand)
 - [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation)
 
