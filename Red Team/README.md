@@ -3,6 +3,7 @@
 ## Unsorted
 - [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Empire](https://github.com/BC-SECURITY/Empire) - Empire is a PowerShell and Python 3.x post-exploitation framework.
+- [Kautilya](https://github.com/samratashok/Kautilya) - Tool for easy use of Human Interface Devices for offensive security and penetration testing. 
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security 
 - [PowerSploit](https://github.com/byt3bl33d3r/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework 
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
