@@ -4,7 +4,10 @@ Various PowerShell scripts
 
 To do: check https://www.techbrown.com/most-useful-bash-scripts-linux-sysadmin/
 
+## Network commands
+Test-NetConnection -Computername $target -Port 5985
 
+### Other
 TimeTrack-Specific-Software-Openings.ps1: Primitive script used to test how long time a specific program uses before it's opened. VLC and Windows Media Player is used as examples. Modern servers will have a close average time while old and unstable servers will have timing that varys more. Having stable and precises time is critical on streaming servers, where it's crucial a program opens without delay.
 
 Normal timing on modern hardware:  
