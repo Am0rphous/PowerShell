@@ -1,5 +1,8 @@
 # PowerShell
 
+"Creativity is your weapon"
+
+
 Various PowerShell scripts
 
 To do: check https://www.techbrown.com/most-useful-bash-scripts-linux-sysadmin/
