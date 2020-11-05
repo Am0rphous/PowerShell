@@ -7,6 +7,9 @@ Various PowerShell scripts
 
 To do: check https://www.techbrown.com/most-useful-bash-scripts-linux-sysadmin/
 
+## Web resources
+- [systanddeploy.com](http://www.systanddeploy.com/)
+
 ## Network commands
 Test-NetConnection -Computername $target -Port 5985
 
