@@ -10,6 +10,9 @@ To do: check https://www.techbrown.com/most-useful-bash-scripts-linux-sysadmin/
 ## Web resources
 - [systanddeploy.com](http://www.systanddeploy.com/)
 
+## Script collections:
+- [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
+
 ## Network commands
 Test-NetConnection -Computername $target -Port 5985
 
