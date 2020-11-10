@@ -13,6 +13,7 @@
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions. 
 
 ## DLL and Injection
+- [sRDI - Shellcode Reflective DLL Injection](https://github.com/monoxgas/sRDI) - Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode.
 - [Syringe](https://github.com/rsmusllp/syringe) - A General Purpose DLL & Code Injection Utility
 - [Reflective DLL Injection](https://github.com/rsmusllp/ReflectiveDLLInjection) - Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 - [Unicorn](https://github.com/trustedsec/unicorn) - Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
