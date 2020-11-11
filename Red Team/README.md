@@ -25,8 +25,8 @@
 - [Nishang](https://github.com/samratashok/nishang) - Offensive PowerShell for red team, penetration testing and offensive security. 
 - [PowerSploit/byt3bl33d3r](https://github.com/byt3bl33d3r/PowerSploit) - A PowerShell Post-Exploitation Framework
 - [PowerSploit/PowerShellMafia](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework.
-  - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
-
+ - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
+ - [SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView.
 ## Obfuscation (making scripts difficult to understand)
 
 
