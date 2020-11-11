@@ -23,7 +23,9 @@
 ## Framewoks
 - [Empire](https://github.com/BC-SECURITY/Empire) - Empire is a PowerShell and Python 3.x post-exploitation framework.
 - [Nishang](https://github.com/samratashok/nishang) - Offensive PowerShell for red team, penetration testing and offensive security. 
-- [PowerSploit](https://github.com/byt3bl33d3r/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework 
+- [PowerSploit/byt3bl33d3r](https://github.com/byt3bl33d3r/PowerSploit) - A PowerShell Post-Exploitation Framework
+- [PowerSploit/PowerShellMafia](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework.
+  - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
 
 ## Obfuscation (making scripts difficult to understand)
 
