@@ -4,6 +4,7 @@
 - [PSDecode](https://github.com/R3MRUM/PSDecode) - PowerShell script for deobfuscating encoded PowerShell scripts.
 
 ## Incident Response
+- [Fusion](https://github.com/awaescher/Fusion) - A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe) 
 - [Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework.
 
 ## Monitoring
