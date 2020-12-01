@@ -2,12 +2,16 @@
 
 ## Unsorted
 - [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
+- [Get-System-Techniques](https://github.com/S3cur3Th1sSh1t/Get-System-Techniques)
 - [Kautilya](https://github.com/samratashok/Kautilya) - Tool for easy use of Human Interface Devices for offensive security and penetration testing. 
-- [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security 
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+- [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - Many usefull offensive CSharp Projects wraped into Powershell for easy usage.
+- [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) -  Abusing Impersonation Privileges on Windows 10 and Server 2019.
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
 - [RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script 
 
 ## Bypassing
+- [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions. 
 
 ## DLL and Injection
@@ -27,6 +31,7 @@
 - [PowerSploit/PowerShellMafia](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework.
   - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
   - [SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView.
+
 ## Obfuscation (making scripts difficult to understand)
 
 
