@@ -4,7 +4,6 @@
 - [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Get-System-Techniques](https://github.com/S3cur3Th1sSh1t/Get-System-Techniques)
 - [Kautilya](https://github.com/samratashok/Kautilya) - Tool for easy use of Human Interface Devices for offensive security and penetration testing. 
-- [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - Many usefull offensive CSharp Projects wraped into Powershell for easy usage.
 - [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) -  Abusing Impersonation Privileges on Windows 10 and Server 2019.
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
@@ -13,6 +12,9 @@
 ## Bypassing
 - [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions. 
+
+## Credential
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
 ## DLL and Injection
 - [sRDI - Shellcode Reflective DLL Injection](https://github.com/monoxgas/sRDI) - Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode.
