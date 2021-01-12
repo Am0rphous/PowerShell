@@ -26,6 +26,9 @@
 - [Encrypt-String (in progress)](https://github.com/Am0rphous/PowerShell-Collection/blob/master/Security/Encrypt-String.ps1)
 - [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation)
 
+## Exploitation
+- [Malgen](https://github.com/cmsteffen-code/malgen) - Craft obfuscated, fileless PowerShell malware. 
+
 ## Framewoks
 - [Empire](https://github.com/BC-SECURITY/Empire) - Empire is a PowerShell and Python 3.x post-exploitation framework.
 - [Nishang](https://github.com/samratashok/nishang) - Offensive PowerShell for red team, penetration testing and offensive security. 
@@ -33,11 +36,6 @@
 - [PowerSploit/PowerShellMafia](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework.
   - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
   - [SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView.
-
-## Obfuscation (making scripts difficult to understand)
-
-
-
 
 #### Writeable paths<br >
 C:\Windows\Tasks  
