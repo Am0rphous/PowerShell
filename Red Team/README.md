@@ -13,6 +13,9 @@
 - [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions. 
 
+## Collections
+- [3gstudent's Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - Collection.
+
 ## Credential
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
