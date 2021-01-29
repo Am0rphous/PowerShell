@@ -1,7 +1,10 @@
 # Resources
+- [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
 
 ## Decoding
 - [PSDecode](https://github.com/R3MRUM/PSDecode) - PowerShell script for deobfuscating encoded PowerShell scripts.
+
+## Forensics
 
 ## Incident Response
 - [Fusion](https://github.com/awaescher/Fusion) - A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe) 
