@@ -1,7 +1,7 @@
 # Blue Team - Defensieve
 
 
-## Decoding, deobfuscating
+## Decoding and deobfuscating
 - [PSDecode](https://github.com/R3MRUM/PSDecode) - PowerShell script for deobfuscating encoded PowerShell scripts.
 
 ## Forensics
