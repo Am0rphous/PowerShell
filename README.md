@@ -1,4 +1,4 @@
-# PowerShell - "Creativity is your weapon"
+# PowerShell - Creativity is your weapon
 
 - [PowerShellGallery.com](https://www.powershellgallery.com)
 - [systanddeploy.com](http://www.systanddeploy.com)
