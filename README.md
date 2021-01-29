@@ -1,16 +1,9 @@
-# PowerShell
+# PowerShell - "Creativity is your weapon"
 
-"Creativity is your weapon"
+- [PowerShellGallery.com](https://www.powershellgallery.com)
+- [systanddeploy.com](http://www.systanddeploy.com)
 
-
-Various PowerShell scripts
-
-To do: check https://www.techbrown.com/most-useful-bash-scripts-linux-sysadmin/
-
-## Web resources
-- [systanddeploy.com](http://www.systanddeploy.com/)
-
-## Script collections:
+## Collections of scripts
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
 - [Rvrsh3ll's Misc-PowerShell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts) - Random Tools.
 
