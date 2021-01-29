@@ -8,7 +8,9 @@
 - [Rvrsh3ll's Misc-PowerShell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts) - Random Tools.
 
 ## Network commands
+````
 Test-NetConnection -Computername $target -Port 5985
+````
 
 ### Other resources that might come in handy
 - [Nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
