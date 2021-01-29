@@ -11,3 +11,5 @@
 - [EventList](https://www.powershellgallery.com/packages/EventList/2.0.0) - Install-Module -Name EventList 
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - a PowerShell Module for Threat Hunting via Windows Event Logs -
 
+## Presentation
+- [Blue Team Perspectives - The Business of Incident Response](https://digital-forensics.sans.org/summit-archives/Prague_Summit/Blue_Team_Perspectives_David_Kovar.pdf)
