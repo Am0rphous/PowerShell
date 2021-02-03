@@ -15,7 +15,7 @@ Because MacOS and Linux are non-Windows systems, PowerShell might lack some feat
 - [Rvrsh3ll's Misc-PowerShell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts) - Random Tools.
 
 ## Network commands
-````
+````powershell
 Test-NetConnection -Computername $target -Port 5985
 ````
 
