@@ -4,6 +4,7 @@
 - [PowerShellGallery.com](https://www.powershellgallery.com)
 - [SyStandDeploy.com](http://www.systanddeploy.com)
 
+Because MacOS and Linux are non-Windows systems, PowerShell might lack some features on these OS'es. This is because .NET Core and PowerShell core isn't feature complete on other OS'es than Windows.
 <br >
 <br >
 
