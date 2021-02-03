@@ -1,7 +1,8 @@
 # Creativity is your weapon
 
+- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [PowerShellGallery.com](https://www.powershellgallery.com)
-- [systanddeploy.com](http://www.systanddeploy.com)
+- [SyStandDeploy.com](http://www.systanddeploy.com)
 
 <br >
 <br >
