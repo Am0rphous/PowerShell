@@ -1,7 +1,5 @@
 # PowerCLI
 
-Because MacOS and Linux are non-Windows systems, PowerShell might lack some features. This is because .NET Core and PowerShell core isn't feature complete on other OS'es than Windows.
-
 ## Installing PowerShell – Homebrew
 ````
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
