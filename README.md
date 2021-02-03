@@ -1,5 +1,7 @@
 # Creativity is your weapon
 
+PowerShell is a task automation and configuration management system developed by Microsoft. It is made up of a command language interpreter (shell) and scripting language built on the .NET Framework [TecMint](https://www.tecmint.com/install-powershell-in-linux/).
+
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [PowerShellGallery.com](https://www.powershellgallery.com)
 - [SyStandDeploy.com](http://www.systanddeploy.com)
