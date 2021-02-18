@@ -1,5 +1,7 @@
 # Blue Team - Defensieve
 
+## Anti-virus and scanning for malicious files
+- [VirusTotal PowerShell Scanner.ps1](https://github.com/cottinghamd/PowershellAdmin/blob/master/VirusTotal%20PowerShell%20Scanner.ps1) - Some Powershell scripts developed during my security consulting work. Hopefully they are useful to you too!
 
 ## Decoding and deobfuscating
 - [PSDecode](https://github.com/R3MRUM/PSDecode) - PowerShell script for deobfuscating encoded PowerShell scripts.
