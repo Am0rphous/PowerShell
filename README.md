@@ -9,6 +9,12 @@ PowerShell is a task automation and configuration management system developed by
 Because MacOS and Linux are non-Windows systems, PowerShell might lack some features on these OS'es. This is because .NET Core and PowerShell core isn't feature complete on other OS'es than Windows.
 <br >
 <br >
+When scripting - Keep this in mind
+- A script should be run without errors
+- It should perform the task for which it is intended
+- Program logic is clearly defined and apparent
+- A script does not do unnecessary work
+- Scripts should be reusable
 
 ## Collections of scripts
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
