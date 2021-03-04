@@ -43,6 +43,9 @@
   - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
   - [SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView.
 
+## Obfuscation
+- [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator.
+
 #### Writeable paths<br >
 C:\Windows\Tasks  
 C:\Windows\Temp  
