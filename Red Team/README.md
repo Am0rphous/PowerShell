@@ -44,6 +44,7 @@
   - [SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView.
 
 ## Obfuscation
+- [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation) - Cmd.exe Command Obfuscation Generator & Detection Test Harness.
 - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator.
 
 #### Writeable paths<br >
