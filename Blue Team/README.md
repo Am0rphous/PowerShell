@@ -5,6 +5,7 @@
 
 ## Decoding and deobfuscating
 - [PSDecode](https://github.com/R3MRUM/PSDecode) - PowerShell script for deobfuscating encoded PowerShell scripts.
+- [Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) - PowerShell Obfuscation Detection Framework.
 
 ## Forensics
 - [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
