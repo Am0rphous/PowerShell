@@ -17,6 +17,7 @@
 - [3gstudent's Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - Collection.
 
 ## Credential
+- [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils.
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
 ## DLL and Injection
