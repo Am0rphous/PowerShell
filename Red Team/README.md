@@ -28,6 +28,7 @@
 
 ## DNS
 - [DNSDumpsterPS](https://github.com/cottinghamd/DNSDumpsterPS/blob/master/dnsdumpster.ps1) - DNS Dumpster Query in PowerShell.
+- [Powermad](https://github.com/Kevin-Robertson/Powermad) - PowerShell MachineAccountQuota and DNS exploit tools.
 
 ## Encryption and Obfuscation
 - [Encrypt-String (in progress)](https://github.com/Am0rphous/PowerShell-Collection/blob/master/Security/Encrypt-String.ps1)
