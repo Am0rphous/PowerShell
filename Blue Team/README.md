@@ -11,6 +11,7 @@
 - [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
 
 ## Incident Response
+- [Defensive Scripts by TrustedSec](https://github.com/trustedsec/defensive-scripts) - Collections of scripts created by the Trustedsec crew to aid defenders and Incident Response practitioners with theirs tasks.
 - [Fusion](https://github.com/awaescher/Fusion) - A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe) 
 - [Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework.
 
