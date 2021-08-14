@@ -9,6 +9,9 @@
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
 - [RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script 
 
+## Attack Testing
+- [AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses) - Public Repo for Atomic Test Harness.
+
 ## Bypassing
 - [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions. 
