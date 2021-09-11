@@ -1,6 +1,6 @@
-# Creativity is your weapon
+## Creativity is your weapon
 
-PowerShell is a task automation and configuration management system developed by Microsoft. It is made up of a command language interpreter (shell) and scripting language built on the .NET Framework [TecMint](https://www.tecmint.com/install-powershell-in-linux/).
+_PowerShell is a task automation and configuration management system developed by Microsoft. It is made up of a command language interpreter (shell) and scripting language built on the .NET Framework_ [TecMint](https://www.tecmint.com/install-powershell-in-linux/).
 
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [PowerShellGallery.com](https://www.powershellgallery.com)
@@ -16,7 +16,7 @@ Because MacOS and Linux are non-Windows systems, PowerShell might lack some feat
 - A script does not do unnecessary work
 - Scripts should be reusable
 
-## Collections of scripts
+## Collections
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
 - [Rvrsh3ll's Misc-PowerShell-Scripts](https://github.com/rvrsh3ll/Misc-Powershell-Scripts) - Random Tools.
 
@@ -25,8 +25,9 @@ Because MacOS and Linux are non-Windows systems, PowerShell might lack some feat
 Test-NetConnection -Computername $target -Port 5985
 ````
 
-### Other resources that might come in handy
+### Other
 - [Nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
+- [Pwsh10k - Oh-my-posh theme](https://github.com/Kudostoy0u/pwsh10k) - Powerlevel10k based theme for Powershell.
 
 ## TimeTrack-Specific-Software-Openings.ps1
 Primitive script used to test how long time a specific program uses before it's opened. VLC and Windows Media Player is used as examples. Modern servers will have a close average time while old and unstable servers will have timing that varys more. Having stable and precises time is critical within streaming environments, where it's crucial a program opens without a delay.
