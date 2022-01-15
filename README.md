@@ -27,6 +27,7 @@ Test-NetConnection -Computername $target -Port 5985
 
 ### Other
 - [Nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
+- [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [Pwsh10k - Oh-my-posh theme](https://github.com/Kudostoy0u/pwsh10k) - Powerlevel10k based theme for Powershell.
 
 ## TimeTrack-Specific-Software-Openings.ps1
