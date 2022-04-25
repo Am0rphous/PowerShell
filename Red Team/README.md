@@ -50,6 +50,8 @@
 
 ## Network
 - [Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy, and reverse socks server using powershell.
+### Reverse-shell
+- [PowerShell-reverse-shell](https://github.com/MartinSohn/PowerShell-reverse-shell) - Reverse TCP shell in PowerShell for fun. Made in spring 2020 with inspiration from (and a few fixes to) samratashok/nishang Invoke-PowerShellTcp.ps1 and https://cyberwardog.blogspot.com/2016/08/poweshell-encrypt-tcp-client-server.html .
 
 ## Obfuscation
 - [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation) - Cmd.exe Command Obfuscation Generator & Detection Test Harness.
