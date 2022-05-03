@@ -1,8 +1,9 @@
 ## Resources
 
-## Unsorted
+
 - [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Get-System-Techniques](https://github.com/S3cur3Th1sSh1t/Get-System-Techniques)
+- [lab-hijack](https://github.com/poptar7/lab-hijack)
 - [Kautilya](https://github.com/samratashok/Kautilya) - Tool for easy use of Human Interface Devices for offensive security and penetration testing. 
 - [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - Many usefull offensive CSharp Projects wraped into Powershell for easy usage.
 - [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) -  Abusing Impersonation Privileges on Windows 10 and Server 2019.
