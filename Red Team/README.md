@@ -19,6 +19,7 @@
 
 ## Collections
 - [3gstudent's Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - Collection.
+- [Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities 
 
 ## Credential
 - [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils.
