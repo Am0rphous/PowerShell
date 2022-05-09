@@ -12,6 +12,7 @@
 
 ## Bypassing
 - [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
+- [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell) - Hide your Powershell script in plain sight. Bypass all Powershell security features 
 - [PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions. 
 
 ## Collections
