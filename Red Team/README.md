@@ -17,6 +17,7 @@
 
 ## Collections
 - [3gstudent's Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - Collection.
+- [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - My musings with PowerShell 
 - [Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities 
 - [RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script 
 - 
