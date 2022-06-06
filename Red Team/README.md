@@ -9,6 +9,7 @@
 - [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - Many usefull offensive CSharp Projects wraped into Powershell for easy usage.
 - [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) -  Abusing Impersonation Privileges on Windows 10 and Server 2019.
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
+- [RestrictedAdmin](https://github.com/GhostPack/RestrictedAdmin) - Remotely enables Restricted Admin Mode 
 
 ## Bypassing
 - [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
