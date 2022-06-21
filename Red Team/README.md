@@ -4,6 +4,7 @@
 - [AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses) - Public Repo for Atomic Test Harness.
 - [Collection of tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Get-System-Techniques](https://github.com/S3cur3Th1sSh1t/Get-System-Techniques)
+- [Handy powershell scripts - puckiestyle](https://github.com/puckiestyle/powershell) - Handy powershell scripts - puckiestyle
 - [lab-hijack](https://github.com/poptar7/lab-hijack)
 - [Kautilya](https://github.com/samratashok/Kautilya) - Tool for easy use of Human Interface Devices for offensive security and penetration testing. 
 - [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - Many usefull offensive CSharp Projects wraped into Powershell for easy usage.
