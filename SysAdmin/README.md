@@ -4,14 +4,8 @@
 
 ## PowerShell Remoting Setup
 ````powershell
-Enable-PSRemoting -Force
-
-#Enable access from all IPs (not ideal in a work environment):
-set-item wsman:\localhost\Client\TrustedHosts -value *
-
-#Check of TrustedHosts:
-get-item wsman:\localhost\Client\TrustedHosts
-
-#Change of network profile:
-Set-NetConnectionProfile -NetworkCategory Private
+Enable-PSRemoting -Force                                    #Enabling PSRemoting
+set-item wsman:\localhost\Client\TrustedHosts -value *      #Enable access from all IPs (not ideal in a work environment)
+get-item wsman:\localhost\Client\TrustedHosts               ##Check of TrustedHosts
+Set-NetConnectionProfile -NetworkCategory Private           #Change of network profile
 ````
