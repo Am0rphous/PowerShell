@@ -14,6 +14,7 @@
 - [Defensive Scripts by TrustedSec](https://github.com/trustedsec/defensive-scripts) - Collections of scripts created by the Trustedsec crew to aid defenders and Incident Response practitioners with theirs tasks.
 - [Fusion](https://github.com/awaescher/Fusion) - A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe) 
 - [Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework.
+- [PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines.
 
 ## Monitoring
 - [EventList](https://www.powershellgallery.com/packages/EventList/2.0.0) - Install-Module -Name EventList 
