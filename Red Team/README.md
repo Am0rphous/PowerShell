@@ -23,8 +23,9 @@
 - [3gstudent's Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - Collection.
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - My musings with PowerShell 
 - [Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities 
+- [Red Team Powershell Scripts](https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts) - Various PowerShell scripts that may be useful during red team exercise
 - [RedRabbit](https://github.com/securethelogs/RedRabbit) - Red Team PowerShell Script 
-- 
+
 ## Credential
 - [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils.
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
