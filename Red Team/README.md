@@ -30,6 +30,9 @@
 - [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils.
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
+## Defender
+- [disable-defender.ps1](https://github.com/jeremybeaume/tools/blob/master/disable-defender.ps1)
+
 ## DLL and Injection
 - [sRDI - Shellcode Reflective DLL Injection](https://github.com/monoxgas/sRDI) - Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode.
 - [Syringe](https://github.com/rsmusllp/syringe) - A General Purpose DLL & Code Injection Utility
