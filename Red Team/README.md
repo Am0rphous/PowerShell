@@ -35,6 +35,10 @@
 
 ## Defender
 - [disable-defender.ps1](https://github.com/jeremybeaume/tools/blob/master/disable-defender.ps1)
+- Disable real-time monitoring feature
+````powershell       
+Set-MpPreference -DisableRealtimeMonitoring $true
+````
 
 ## DLL and Injection
 - [sRDI - Shellcode Reflective DLL Injection](https://github.com/monoxgas/sRDI) - Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode.
