@@ -72,9 +72,10 @@ Set-MpPreference -DisableRealtimeMonitoring $true
 ### Reverse-shell
 - [PowerShell-reverse-shell](https://github.com/MartinSohn/PowerShell-reverse-shell) - Reverse TCP shell in PowerShell for fun. Made in spring 2020 with inspiration from (and a few fixes to) samratashok/nishang Invoke-PowerShellTcp.ps1 and https://cyberwardog.blogspot.com/2016/08/poweshell-encrypt-tcp-client-server.html .
 
-## Obfuscation
+## Obfuscation, evaision and stealth
 - [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation) - Cmd.exe Command Obfuscation Generator & Detection Test Harness.
 - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator.
+- [NoPowerShell](https://github.com/bitsadmin/nopowershell) - PowerShell rebuilt in C# for Red Teaming purposes 
 
 #### Writeable paths<br >
 C:\Windows\Tasks  
