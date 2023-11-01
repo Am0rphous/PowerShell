@@ -10,3 +10,12 @@ set-item wsman:\localhost\Client\TrustedHosts -value *      #Enable access from 
 get-item wsman:\localhost\Client\TrustedHosts               ##Check of TrustedHosts
 Set-NetConnectionProfile -NetworkCategory Private           #Change of network profile
 ````
+
+## What process is using this port
+````powershell
+#Choosing port 8080 as an example
+Get-Process -Id (Get-NetTCPConnection -LocalPort 8080).OwningProcess     
+
+#Choosing process with ID 7324 as an example below
+Get-Process -Id 7324 | Select-Object -ExpandProperty Modules | Select-Object -ExpandProperty FileName | Get-Unique
+````
