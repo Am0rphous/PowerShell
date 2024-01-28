@@ -35,7 +35,7 @@
 
 ## Defender
 - [disable-defender.ps1](https://github.com/jeremybeaume/tools/blob/master/disable-defender.ps1)
-- Disable real-time monitoring feature
+- Disable real-time monitoring by Defender. This stops it from scanning and detecting malicious software in **realtime**. It will still scan in **specified intervals** or manually
 ````powershell       
 Set-MpPreference -DisableRealtimeMonitoring $true
 ````
