@@ -13,6 +13,7 @@
 - [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) -  Abusing Impersonation Privileges on Windows 10 and Server 2019.
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
 - [RestrictedAdmin](https://github.com/GhostPack/RestrictedAdmin) - Remotely enables Restricted Admin Mode 
+- [Threat Hunting with PowerShell](https://github.com/tomwechsler/Threat_Hunting_with_PowerShell/tree/main) - Security even with a small budget - there is no excuse! 
 
 ## Active Directory
 - [AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt) - Welcome to the AD Pentesting Toolkit! This repository contains a collection of PowerShell scripts and commands that can be used for Active Directory (AD) penetration testing and security assessment.
