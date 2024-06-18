@@ -10,6 +10,7 @@
 - [powerglot](https://github.com/mindcrypt/powerglot) - Powerglot encodes offensive powershell scripts using polyglots . Offensive security tool useful for stego-malware, privilege escalation, lateral movement, reverse shell, etc.
 - [PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell) - Run PowerShell command without invoking powershell.exe
 - [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - Many usefull offensive CSharp Projects wraped into Powershell for easy usage.
+- [PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [PrintSpoofer](https://github.com/itm4n/PrintSpoofer) -  Abusing Impersonation Privileges on Windows 10 and Server 2019.
 - [Red Baron (archived)](https://github.com/byt3bl33d3r/Red-Baron) - Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.
 - [RestrictedAdmin](https://github.com/GhostPack/RestrictedAdmin) - Remotely enables Restricted Admin Mode 
