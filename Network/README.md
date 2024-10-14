@@ -24,3 +24,22 @@ foreach ($server in $servers) {
     Write-Host ""
 }
 ````
+Expected results:
+````
+Pinging us.api.security.microsoft.com...
+us.api.security.microsoft.com - Average Response Time: 106 ms
+
+Pinging eu.api.security.microsoft.com...
+eu.api.security.microsoft.com - Average Response Time: 24.75 ms
+
+Pinging uk.api.security.microsoft.com...
+uk.api.security.microsoft.com - Average Response Time: 31.75 ms
+
+Pinging au.api.security.microsoft.com...
+au.api.security.microsoft.com - Average Response Time: 255 ms
+
+Pinging swa.api.security.microsoft.com...
+swa.api.security.microsoft.com - Average Response Time: 28.25 ms
+
+Pinging ina.api.security.microsoft.com...
+````
