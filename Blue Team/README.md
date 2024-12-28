@@ -1,4 +1,5 @@
 # Blue Team - Defensieve
+- [PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter) - PowerShell tools to help defenders hunt smarter, hunt harder.
 
 ## Anti-virus and scanning for malicious files
 - [VirusTotal PowerShell Scanner.ps1](https://github.com/cottinghamd/PowershellAdmin/blob/master/VirusTotal%20PowerShell%20Scanner.ps1) - Some Powershell scripts developed during my security consulting work. Hopefully they are useful to you too!
