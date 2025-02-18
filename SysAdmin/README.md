@@ -2,6 +2,7 @@
 
 - [Carbon](http://get-carbon.org/) - "Carbon is a PowerShell module for automating the configuration of computers running Windows 7, 8, 2008, and 2012."
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH 
+- [HTTP Server](https://github.com/zh54321/PowerShell_HttpServer) - Simple PowerShell HTTP Server (no dependencies, single file, PowerShell 5.1/7)
 
 ## PowerShell Remoting Setup
 ````powershell
