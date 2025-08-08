@@ -4,6 +4,20 @@
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH 
 - [HTTP Server](https://github.com/zh54321/PowerShell_HttpServer) - Simple PowerShell HTTP Server (no dependencies, single file, PowerShell 5.1/7)
 
+## Path
+````powershell
+#Change path for current session only
+$env:Path += ";$env:USERPROFILE\AppData\Local\Android\Sdk\emulator"
+
+#Permanent for this user
+$emulatorPath = "$env:USERPROFILE\AppData\Local\Android\Sdk\emulator"
+$oldPath = [Environment]::GetEnvironmentVariable("Path", "User")
+#Check if the path contains the new path
+if ($oldPath -notlike "*$emulatorPath*") {
+    [Environment]::SetEnvironmentVariable("Path", "$oldPath;$emulatorPath", "User")
+}
+````
+
 ## PowerShell Remoting Setup
 ````powershell
 Enable-PSRemoting -Force                                    #Enabling PSRemoting
