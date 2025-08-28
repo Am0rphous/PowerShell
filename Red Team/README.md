@@ -16,6 +16,7 @@
 - [RestrictedAdmin](https://github.com/GhostPack/RestrictedAdmin) - Remotely enables Restricted Admin Mode 
 - [Threat Hunting with PowerShell](https://github.com/tomwechsler/Threat_Hunting_with_PowerShell/tree/main) - Security even with a small budget - there is no excuse! 
 
+
 ## Active Directory
 - [AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt) - Welcome to the AD Pentesting Toolkit! This repository contains a collection of PowerShell scripts and commands that can be used for Active Directory (AD) penetration testing and security assessment.
 
@@ -26,6 +27,7 @@
 
 ## Collections
 - [3gstudent's Homework-of-Powershell](https://github.com/3gstudent/Homework-of-Powershell) - Collection.
+- [Infiltrax](https://github.com/alexdhital/Infiltrax) - Infiltrax is a post-exploitation reconnaissance tool for penetration testers and red teams, designed to capture screenshots, retrieve clipboard contents, log keystrokes, bypass UAC and install AnyDesk for persistent remote access.
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - My musings with PowerShell 
 - [Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities 
 - [Red Team Powershell Scripts](https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts) - Various PowerShell scripts that may be useful during red team exercise
