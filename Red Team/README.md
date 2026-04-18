@@ -38,6 +38,8 @@
 ## Credential
 - [Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils.
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+- [SessionGopher](https://github.com/Arvanaghi/SessionGopher) - SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.
+
 
 ## Defender
 - [disable-defender.ps1](https://github.com/jeremybeaume/tools/blob/master/disable-defender.ps1)
