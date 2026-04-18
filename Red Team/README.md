@@ -19,6 +19,8 @@
 
 ## Active Directory
 - [AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt) - Welcome to the AD Pentesting Toolkit! This repository contains a collection of PowerShell scripts and commands that can be used for Active Directory (AD) penetration testing and security assessment.
+- [Ldapconsole](https://github.com/p0dalirius/ldapconsole) - The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
+
 
 ## Bypassing
 - [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
